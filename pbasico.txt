@@ -1,3 +1,7 @@
+párrafo básico en la rama main
+Parrafo del estudiante 2 en el archivo de texto. 
+Parrafo del estudiante 2 en el archivo de texto. 
+Parrafo del estudiante 2 en el archivo de texto. 
 párrafo básico en la rama main editado
 párrafo básico en la rama main editado
 párrafo básico en la rama main editado
